@@ -1,0 +1,11 @@
+python-telegram-bot==13.4
+yt-dlp
+requests
+beautifulsoup4
+moviepy
+fpdf
+pillow
+speechrecognition
+qrcode
+googletrans==4.0.0-rc1
+pyrogram
